@@ -9,3 +9,7 @@ ul li {
 .radio {
   display: inline-block;
 }
+
+.hidden {
+  display: none;
+}
